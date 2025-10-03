@@ -1,0 +1,104 @@
+[
+    {
+        "idUser":"01",
+        "nome": "maycon",
+        "email": "senai@senai",
+        "senha": "XXXXXXXX",
+        "dataNascimento": "1990-08-11",
+        "tipoUsuario": "comprador"
+
+    },
+
+    {
+        "idUser":"02",
+        "nome": "igor",
+        "email": "igor@senai",
+        "senha": "1234",
+        "dataNascimento": "1995-05-20",
+        "tipoUsuario": "comprador"
+
+    },
+    
+    {
+        "idUser":"03",
+        "nome": "quico",
+        "email": "quico@senai",
+        "senha": "777777",
+        "dataNascimento": "1994-08-12",
+        "tipoUsuario": "admin"
+
+    },
+    
+    {
+        "idUser":"04",
+        "nome": "seu madruga",
+        "email": "madruguinha@senai",
+        "senha": "77889900",
+        "dataNascimento": "1975-01-07",
+        "tipoUsuario": "comprador"
+
+    },
+        
+    {
+        "idUser":"05",
+        "nome": "chapolin",
+        "email": "CH@senai",
+        "senha": "1234321",
+        "dataNascimento": "1985-01-08",
+        "tipoUsuario": "comprador"
+
+    },
+    
+    {
+        "idUser":"06",
+        "nome": "seu barriga",
+        "email": "senai@barriga",
+        "senha": "12211221",
+        "dataNascimento": "1965-04-12",
+        "tipoUsuario": "comprador"
+
+    },
+    
+    {
+        "idUser":"07",
+        "nome": "dona florinda",
+        "email": "florinda@senai",
+        "senha": "flor123",
+        "dataNascimento": "2000-10-20",
+        "tipoUsuario": "comprador"
+
+    },
+        
+    {
+        "idUser":"08",
+        "nome": "Professor Girafalhes",
+        "email": "professor@senai",
+        "senha": "12345321",
+        "dataNascimento": "1999-07-20",
+        "tipoUsuario": "comprador"
+
+    },
+    
+    {
+        "idUser":"09",
+        "nome": "igor",
+        "email": "igor@senai",
+        "senha": "XXXXXXXX",
+        "dataNascimento": "1995-05-20",
+        "tipoUsuario": "comprador"
+
+    },
+    
+    {
+        "idUser":"10",
+        "nome": "enzo",
+        "email": "enzo@senai",
+        "senha": "2121121212",
+        "dataNascimento": "2010-05-21",
+        "tipoUsuario": "comprador"
+
+    }
+
+
+
+]    

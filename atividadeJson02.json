@@ -1,0 +1,169 @@
+[
+    {
+        "numPedido": 101010,
+        "usuario": "chaves",
+        "data": "o1-10-2025",
+        "produtos": [
+            {
+                "idProduto": 90909090,
+                "nome": "sanduiche de presunto",
+                "quant": 99,
+                "preço": 1.99
+            }
+        ]
+    },
+    {
+        "numPedido":333333,
+        "usuario": "kiko",
+        "data": "o1-10-2025",
+        "produtos": [
+            {
+                "idProduto":909,
+                "nome": "bola quadrada",
+                "quant": 1,
+                "preço": 9.99
+            },
+            {
+                "idProduto": 90909090,
+                "nome": "sanduiche de presunto",
+                "quant": 1,
+                "preço": 1.99
+            }
+        ]
+    },
+    {
+        "numPedido": 2202020,
+        "usuario": "seu madruga",
+        "data": "o1-10-2025",
+        "produtos": [
+            {
+                "idProduto": 91919,
+                "nome": "tv de segunda mão",
+                "quant": 1,
+                "preço": 200.00
+            }
+        ]
+    },
+    {
+        "numPedido": 217182216812,
+        "usuario": "seu madruga",
+        "data": "01-10-2025",
+        "produtos": [
+            {
+                "idProduto": 111909,
+                "nome": "livro de precicologia",
+                "quant": 1,
+                "preço": 0.99
+            },
+            {
+                "idProduto": 90909090,
+                "nome": "sanduiche de presunto",
+                "quant": 1,
+                "preço": 1.99
+            }
+        ]
+    },
+    {
+        "numPedido": 2202020,
+        "usuario": "nhonho",
+        "data": "o1-10-2025",
+        "produtos": [
+            {
+                "idProduto": 909,
+                "nome": "melancia",
+                "quant": 1,
+                "preço": 29.99
+            }
+            
+        ]
+    },
+    {
+        "numPedido": 2202020,
+        "usuario": "popis",
+        "data": "o1-10-2025",
+        "produtos": [
+            {
+                "idProduto": 22222,
+                "nome": "pirulito do chaves",
+                "quant": 1,
+                "preço": 9.99
+            }
+          
+        ]
+    },
+    {
+        "numPedido": 2202020,
+        "usuario": "godinez",
+        "data": "o1-10-2025",
+        "produtos": [
+            {
+                "idProduto": 6767676,
+                "nome": "chapeuzin",
+                "quant": 1,
+                "preço": 205.99
+            }
+            
+        ]
+    },
+    {
+        "numPedido": 3333333,
+        "usuario": "kiko",
+        "data": "o1-10-2025",
+        "produtos": [
+            {
+                "idProduto": 8787887,
+                "nome": "bola quadrada 2",
+                "quant": 1,
+                "preço": 99999999.99
+            }
+           
+        ]
+    },
+    {
+        "numPedido": 4444443,
+        "usuario": "chiquinha",
+        "data": "o1-10-2025",
+        "produtos": [
+            {
+                "idProduto": 211212,
+                "nome": "dorflex",
+                "quant": 10,
+                "preço": 9.99
+            }
+            
+        ]
+    },
+    {
+        "numPedido": 8787878,
+        "usuario": "chapolin",
+        "data": "o1-10-2025",
+        "produtos": [
+            {
+                "idProduto": 21212,
+                "nome": "marreta bionica",
+                "quant": 1,
+                "preço": 88.99
+            }
+            
+        ]
+    },
+    {
+        "numPedido": 2202020,
+        "usuario": "kiko",
+        "data": "o1-10-2025",
+        "produtos": [
+            {
+                "idProduto": 333,
+                "nome": "barquinho bolado",
+                "quant": 1,
+                "preço": 99.99
+            },
+            {
+                "idProduto": 1111111,
+                "nome": "chicara de cafe",
+                "quant": 1,
+                "preço": 1.99
+            }
+        ]
+    }
+]
