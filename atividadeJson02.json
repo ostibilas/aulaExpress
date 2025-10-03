@@ -8,12 +8,12 @@
                 "idProduto": 90909090,
                 "nome": "sanduiche de presunto",
                 "quant": 99,
-                "preço": 1.99
+                "preço": 1.98
             }
         ]
     },
     {
-        "numPedido":333333,
+        "numPedido":111111,
         "usuario": "kiko",
         "data": "o1-10-2025",
         "produtos": [
